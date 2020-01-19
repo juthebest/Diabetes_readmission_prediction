@@ -1,5 +1,5 @@
 # Diabetes_readmission_prediction
-## This is a simple ML classification problem. The objective is to use historical patient data to predict the likelihood of readmission. The doctor intends to use this as an assessment tool before he discharges his patient. The data analyst has already did the analysis and develop with a predictive model.
+ This is a simple ML classification problem. The objective is to use historical patient data to predict the likelihood of readmission. The doctor intends to use this as an assessment tool before he discharges his patient. The data analyst has already did the analysis and develop with a predictive model.
 ## Deploy this -
 ###
 ### 1. Batch mode - 
